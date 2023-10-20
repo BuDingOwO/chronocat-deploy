@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_chronocat_docs=self.webpackChunk_chronocat_docs||[]).push([[9649],{4905:(c,o,s)=>{s.r(o),s.d(o,{default:()=>t});var e=s(7267),a=s(2322);const t=()=>(0,a.jsx)(e.l_,{to:"/more/changelog"})}}]);

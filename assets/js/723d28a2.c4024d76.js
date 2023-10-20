@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_chronocat_docs=self.webpackChunk_chronocat_docs||[]).push([[6305],{7432:(c,o,s)=>{s.r(o),s.d(o,{default:()=>r});var t=s(7267),e=s(2322);const r=()=>(0,e.jsx)(t.l_,{to:"/contribute/core/unsupported"})}}]);

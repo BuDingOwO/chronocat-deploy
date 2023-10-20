@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_chronocat_docs=self.webpackChunk_chronocat_docs||[]).push([[9439],{3747:(c,o,s)=>{s.r(o),s.d(o,{default:()=>a});var t=s(7267),e=s(2322);const a=()=>(0,e.jsx)(t.l_,{to:"/more/community"})}}]);

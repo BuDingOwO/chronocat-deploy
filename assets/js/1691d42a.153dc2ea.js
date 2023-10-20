@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_chronocat_docs=self.webpackChunk_chronocat_docs||[]).push([[3600],{1124:(c,t,o)=>{o.r(t),o.d(t,{default:()=>a});var s=o(7267),e=o(2322);const a=()=>(0,e.jsx)(s.l_,{to:"/contribute/native"})}}]);
