@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chronocat.vercel.app/blog</id>
+    <id>https://chronocat-docs.vercel.app/blog</id>
     <title>Chronocat Blog</title>
     <updated>2023-10-06T19:12:45.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chronocat.vercel.app/blog"/>
+    <link rel="alternate" href="https://chronocat-docs.vercel.app/blog"/>
     <subtitle>Chronocat Blog</subtitle>
-    <icon>https://chronocat.vercel.app/chronocat.ico</icon>
+    <icon>https://chronocat-docs.vercel.app/chronocat.ico</icon>
     <entry>
         <title type="html"><![CDATA[Chronocat v0.0.50]]></title>
-        <id>https://chronocat.vercel.app/blog/0050</id>
-        <link href="https://chronocat.vercel.app/blog/0050"/>
+        <id>https://chronocat-docs.vercel.app/blog/0050</id>
+        <link href="https://chronocat-docs.vercel.app/blog/0050"/>
         <updated>2023-10-06T19:12:45.190Z</updated>
         <summary type="html"><![CDATA[Chronocat v0.0.50 正式发布。了解 Headless、Docker 和 Satori 等最新功能。]]></summary>
         <content type="html"><![CDATA[<p>Chronocat v0.0.50 现已可用！本次更新我们带来了许多全新的功能，包括远程登录、Headless
